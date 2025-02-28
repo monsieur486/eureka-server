@@ -1,1 +1,1 @@
-docker build --tag=demoapi:latest .
+docker build --tag=eureka-server:latest .
